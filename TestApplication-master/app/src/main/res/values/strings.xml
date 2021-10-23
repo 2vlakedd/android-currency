@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="click_here">Click Here</string>
+    <string name="result">Result</string>
+    <string name="usdtophp">USDtoPHP</string>
+    <string name="YentoPhp">YentoPhp</string>
+</resources>
